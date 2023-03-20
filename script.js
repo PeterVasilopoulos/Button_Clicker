@@ -14,5 +14,5 @@ function removeDef(element) {
 
 // Like button alert
 function likeButton() {
-    
+    alert("Ninja was liked");
 }
